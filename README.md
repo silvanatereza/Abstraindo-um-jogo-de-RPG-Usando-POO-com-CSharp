@@ -3,5 +3,5 @@
 
 * Abstração 
 * Encapsulamento
-* Polimotfismo 
+* Polimorfismo
 * Herança 
