@@ -1,2 +1,7 @@
 # AbstraindoUmjogoDeRPGUsandoPOOComCSharp
-## Nesse Repositório tem alguns exeplos dos quatros pilares da POO 
+## Nesse Repositório tem alguns exemplos dos quatros pilares da POO 
+
+* Abstração 
+* Encapsulamento
+* Polimotfismo 
+* Herança 
